@@ -1,6 +1,7 @@
-# Horror Movies by David Robinson 22/10/2019
+# Horror Movies 22/10/2019
 # Source (YouTube): https://www.youtube.com/watch?v=yFRSTlk3kRQ
 # Tidytuesdays source (Github) : https://github.com/rfordatascience/tidytuesday 
+# Original code from David Robinson: https://github.com/dgrtwo/data-screencasts
 
 # Interesting use of:
 # extract()
